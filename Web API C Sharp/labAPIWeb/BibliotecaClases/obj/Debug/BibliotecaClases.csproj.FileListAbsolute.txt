@@ -1,0 +1,10 @@
+C:\Users\casa\documents\visual studio 2012\Projects\labAPIWeb\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\casa\documents\visual studio 2012\Projects\labAPIWeb\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\casa\documents\visual studio 2012\Projects\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\casa\documents\visual studio 2012\Projects\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\casa\documents\visual studio 2012\Projects\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\estudiantes\Desktop\Nueva carpeta\labAPIWeb\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\estudiantes\Desktop\Nueva carpeta\labAPIWeb\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\estudiantes\Desktop\Nueva carpeta\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+C:\Users\estudiantes\Desktop\Nueva carpeta\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\estudiantes\Desktop\Nueva carpeta\labAPIWeb\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
